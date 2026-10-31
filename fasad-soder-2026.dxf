@@ -10441,49 +10441,53 @@ PageSettings/PaperWidth
 350
 175
   3
-PageSettings/Scale
+PageSettings/PositionAccepted
 350
 176
   3
-PageSettings/ShowPaperBorders
+PageSettings/Scale
 350
 177
   3
-PageTagSettings/EnablePageTags
+PageSettings/ShowPaperBorders
 350
 178
   3
-PageTagSettings/TagAlignment
+PageTagSettings/EnablePageTags
 350
 179
   3
-PageTagSettings/TagFont
+PageTagSettings/TagAlignment
 350
 17A
   3
-PageTagSettings/TagPosition
+PageTagSettings/TagFont
 350
 17B
   3
-QCADVersion
+PageTagSettings/TagPosition
 350
 17C
   3
-UnitSettings/PaperUnit
+QCADVersion
 350
 17D
   3
-ViewportCenter
+UnitSettings/PaperUnit
 350
 17E
   3
-ViewportHeight
+ViewportCenter
 350
 17F
   3
-ViewportWidth
+ViewportHeight
 350
 180
+  3
+ViewportWidth
+350
+181
   0
 XRECORD
   5
@@ -10998,8 +11002,8 @@ XRECORD
 AcDbXrecord
 280
 1
- 40
-0.01
+290
+1
   0
 XRECORD
   5
@@ -11010,8 +11014,8 @@ XRECORD
 AcDbXrecord
 280
 1
-290
-1
+ 40
+0.01
   0
 XRECORD
   5
@@ -11023,7 +11027,7 @@ AcDbXrecord
 280
 1
 290
-0
+1
   0
 XRECORD
   5
@@ -11034,8 +11038,8 @@ XRECORD
 AcDbXrecord
 280
 1
-1000
-Inside
+290
+0
   0
 XRECORD
   5
@@ -11047,7 +11051,7 @@ AcDbXrecord
 280
 1
 1000
-Arial,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+Inside
   0
 XRECORD
   5
@@ -11059,7 +11063,7 @@ AcDbXrecord
 280
 1
 1000
-TopLeft
+Arial,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
   0
 XRECORD
   5
@@ -11071,11 +11075,23 @@ AcDbXrecord
 280
 1
 1000
-27
+TopLeft
   0
 XRECORD
   5
 17D
+330
+149
+100
+AcDbXrecord
+280
+1
+1000
+27
+  0
+XRECORD
+  5
+17E
 330
 149
 100
@@ -11087,18 +11103,6 @@ AcDbXrecord
   0
 XRECORD
   5
-17F
-330
-149
-100
-AcDbXrecord
-280
-1
- 40
-9671.9219214681852463
-  0
-XRECORD
-  5
 180
 330
 149
@@ -11107,7 +11111,19 @@ AcDbXrecord
 280
 1
  40
-17100.6081703941672458
+22408.4749066167787532
+  0
+XRECORD
+  5
+181
+330
+149
+100
+AcDbXrecord
+280
+1
+ 40
+39619.6900869930250337
   0
 IMAGEDEF
   5
