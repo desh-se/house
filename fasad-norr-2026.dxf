@@ -1925,7 +1925,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-OVRIGT
+DORR
  70
 0
  62
@@ -1947,7 +1947,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-DORR
+OVRIGT
  70
 0
  62
@@ -2199,7 +2199,7 @@ textstyle2
  71
 0
  42
-137.3979999999999961
+180.0
   3
 
   4
@@ -2231,7 +2231,7 @@ textstyle3
  71
 0
  42
-137.3979999999999961
+180.0
   3
 
   4
@@ -2359,7 +2359,7 @@ textstyle7
  71
 0
  42
-180.0
+137.3979999999999961
   3
 
   4
@@ -2423,7 +2423,7 @@ textstyle9
  71
 0
  42
-180.0
+137.3979999999999961
   3
 
   4
@@ -2455,7 +2455,7 @@ textstyle10
  71
 0
  42
-183.1974999999999909
+180.0
   3
 
   4
@@ -2487,7 +2487,7 @@ textstyle11
  71
 0
  42
-180.0
+183.1974999999999909
   3
 
   4
@@ -3093,7 +3093,7 @@ AcDbText
  41
 1.0
   7
-textstyle8
+textstyle5
  71
 0
  72
@@ -3261,7 +3261,7 @@ AcDbText
  41
 1.0
   7
-textstyle4
+textstyle2
  71
 0
  72
@@ -3429,7 +3429,7 @@ AcDbText
  41
 1.0
   7
-textstyle5
+textstyle3
  71
 0
  72
@@ -3567,7 +3567,7 @@ AcDbText
  41
 1.0
   7
-textstyle9
+textstyle8
  71
 0
  72
@@ -3705,7 +3705,7 @@ AcDbText
  41
 1.0
   7
-textstyle11
+textstyle10
  71
 0
  72
@@ -3921,7 +3921,7 @@ m
  41
 1.0
   7
-textstyle7
+textstyle4
  71
 0
  72
@@ -6043,7 +6043,7 @@ D9
 100
 AcDbEntity
   8
-PANEL
+DORR
  62
 256
 370
@@ -6073,7 +6073,7 @@ DA
 100
 AcDbEntity
   8
-DORR
+PANEL
  62
 256
 370
@@ -6103,7 +6103,7 @@ DB
 100
 AcDbEntity
   8
-DORR
+PANEL
  62
 256
 370
@@ -6133,7 +6133,7 @@ DC
 100
 AcDbEntity
   8
-DORR
+PANEL
  62
 256
 370
@@ -6163,7 +6163,7 @@ DD
 100
 AcDbEntity
   8
-DORR
+PANEL
  62
 256
 370
@@ -6193,7 +6193,7 @@ DE
 100
 AcDbEntity
   8
-DORR
+PANEL
  62
 256
 370
@@ -6223,7 +6223,7 @@ DF
 100
 AcDbEntity
   8
-DORR
+PANEL
  62
 256
 370
@@ -6253,7 +6253,7 @@ E0
 100
 AcDbEntity
   8
-DORR
+PANEL
  62
 256
 370
@@ -6283,7 +6283,7 @@ E1
 100
 AcDbEntity
   8
-DORR
+PANEL
  62
 256
 370
@@ -6313,7 +6313,7 @@ E2
 100
 AcDbEntity
   8
-DORR
+PANEL
  62
 256
 370
@@ -6343,7 +6343,7 @@ E3
 100
 AcDbEntity
   8
-DORR
+PANEL
  62
 256
 370
@@ -6373,7 +6373,7 @@ E4
 100
 AcDbEntity
   8
-DORR
+PANEL
  62
 256
 370
@@ -6403,7 +6403,7 @@ E5
 100
 AcDbEntity
   8
-DORR
+PANEL
  62
 256
 370
@@ -6433,7 +6433,7 @@ E6
 100
 AcDbEntity
   8
-DORR
+PANEL
  62
 256
 370
@@ -6463,7 +6463,7 @@ E7
 100
 AcDbEntity
   8
-DORR
+PANEL
  62
 256
 370
@@ -6493,7 +6493,7 @@ E8
 100
 AcDbEntity
   8
-DORR
+PANEL
  62
 256
 370
@@ -6523,7 +6523,7 @@ E9
 100
 AcDbEntity
   8
-DORR
+PANEL
  62
 256
 370
@@ -8289,7 +8289,7 @@ FASAD MOT NORR
  41
 1.0
   7
-textstyle10
+textstyle11
  71
 0
  72
@@ -8385,7 +8385,7 @@ AcDbText
  41
 1.0
   7
-textstyle2
+textstyle9
  71
 0
  72
@@ -8481,7 +8481,7 @@ AcDbText
  41
 1.0
   7
-textstyle3
+textstyle7
  71
 0
  72
@@ -12500,8 +12500,8 @@ XRECORD
 AcDbXrecord
 280
 1
-1000
--2275.93
+ 40
+-9996.5966779793961905
   0
 XRECORD
   5
@@ -12512,8 +12512,8 @@ XRECORD
 AcDbXrecord
 280
 1
-1000
--2225.22
+ 40
+-8020.3033833779400084
   0
 XRECORD
   5
@@ -12693,7 +12693,7 @@ AcDbXrecord
 280
 1
  40
-8194.7248536031402182
+25625.55066079295284
   0
 XRECORD
   5
@@ -12705,7 +12705,7 @@ AcDbXrecord
 280
 1
  40
-14537.6906340480654762
+48475.7709251101332484
   0
 IMAGEDEF
   5
